@@ -636,7 +636,7 @@ a {
 .label-text {
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
   display: block;
@@ -666,15 +666,6 @@ border-color: #4d5ae5;
 
 .modal-checkbox {
   margin-bottom: 24px;
-}
-
-.user-accept {
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  color: #8e8f99;
-  /* margin-bottom: 24px; */
 }
 
 .modal-checkbox-span {
