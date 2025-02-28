@@ -586,8 +586,7 @@ a {
 }
 
 .form-field {
-  margin: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .form-label {
@@ -632,7 +631,6 @@ a {
   fill: #4d5ae5;
 }
 
-
 .label-text {
   font-weight: 400;
   font-size: 12px;
@@ -644,7 +642,7 @@ a {
 }
 
 .textarea-form:focus {
-border-color: #4d5ae5;
+  border-color: #4d5ae5;
 }
 
 .textarea-form {
@@ -674,7 +672,6 @@ border-color: #4d5ae5;
   justify-content: center;
   fill: transparent;
   margin-right: 8px;
-  margin-left: 8px;
   width: 16px;
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
