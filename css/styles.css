@@ -586,7 +586,7 @@ a {
 }
 
 .form-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .form-label {
@@ -616,7 +616,6 @@ a {
 
 .input-wrapper {
   position: relative;
-  margin-bottom: 8px;
 }
 
 .form-icon {
@@ -630,6 +629,10 @@ a {
 
 .form-input:focus + .form-icon {
   fill: #4d5ae5;
+}
+
+.modal-user-comment {
+  margin-bottom: 16px;
 }
 
 .label-text {
