@@ -691,7 +691,7 @@ border-color: #4d5ae5;
   color: #4d5ae5;
 }
 
-.visually-hidden:checked + .user-accept .modal-checkbox-span {
+.visually-hidden:checked + .label-text .modal-checkbox-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
