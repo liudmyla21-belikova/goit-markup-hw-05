@@ -616,6 +616,7 @@ a {
 
 .input-wrapper {
   position: relative;
+  margin-bottom: 8px;
 }
 
 .form-icon {
