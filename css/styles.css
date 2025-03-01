@@ -721,9 +721,9 @@ a {
   background-color: #404bbf;
 }
 
-/* .footer-div-form {
-  margin-left: 80px;
-} */
+.footer-div-form {
+  margin-left: auto;
+}
 
 .footer-form {
   display: flex;
@@ -784,7 +784,7 @@ a {
 
 .svg-icon-footer {
   fill: #fff;
-  margin-left: 16px;
+  margin-left: 24px;
 }
 
 .footer-form-btn:hover,
